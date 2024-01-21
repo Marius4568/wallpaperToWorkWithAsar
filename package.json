@@ -1,13 +1,12 @@
 {
-	"name": "wallpaper",
-	"version": "7.2.0",
+	"name": "wallpaper-to-work-with-asar",
+	"version": "0.0.0",
 	"description": "Manage the desktop wallpaper",
 	"license": "MIT",
-	"repository": "sindresorhus/wallpaper",
+	"repository": "Marius4568/wallpaperToWorkWithAsar",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
+		"name": "Marius Urbonas",
+		"email": "mariolee303@gmail.com"
 	},
 	"type": "module",
 	"exports": "./index.js",
